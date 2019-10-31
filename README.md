@@ -4,4 +4,5 @@ The accompanying articles can be found here :
 1. https://medium.com/@ishannangia/bitcoin-price-analysis-part-i-classical-decomposition-tools-fd1b00735bc6
 2. https://medium.com/@ishannangia/bitcoin-price-analysis-part-ii-statistical-forecasting-a37e6c3a2472
 
+Use "https://nbviewer.jupyter.org/" if notebooks not rendering here.
 
